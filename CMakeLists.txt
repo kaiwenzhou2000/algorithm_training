@@ -3,4 +3,4 @@ project(algorithm_training)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm_training main.cpp)
+add_executable(ALGO1 ALGO_1.cpp)
